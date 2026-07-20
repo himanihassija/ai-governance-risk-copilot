@@ -1,0 +1,28 @@
+# n8n Credentials Reference
+# These aren't loaded automatically by the workflow — n8n stores credentials
+# in its own credential store, not as environment variables. This file just
+# documents what you'll need to create and connect to each node.
+
+# --- Groq (LLM: clarifying questions, query generation, learnings extraction, report synthesis) ---
+# Get a key at https://console.groq.com
+GROQ_API_KEY=your_groq_api_key_here
+# Recommended model: llama-3.1-8b-instant (higher free-tier TPM than the 70b models)
+
+# --- Mistral Cloud (LLM: markdown-to-Notion-block JSON conversion) ---
+# Get a key at https://console.mistral.ai
+MISTRAL_API_KEY=your_mistral_api_key_here
+# Recommended model: pin an explicit version (e.g. mistral-small-2506) rather than
+# "-latest" — different underlying versions can carry very different free-tier
+# rate limits under the same alias.
+
+# --- Apify (web search + page scraping) ---
+# Get a token at https://console.apify.com/account/integrations
+APIFY_API_TOKEN=your_apify_api_token_here
+
+# --- Notion (report storage) ---
+# Create an integration at https://www.notion.so/my-integrations
+NOTION_API_KEY=your_notion_integration_secret_here
+# Database ID: create/duplicate a database with properties (Name, Description,
+# Request ID, Status), share it with your integration, and grab the ID from
+# its URL. Replace YOUR_NOTION_DATABASE_ID in workflow.json with this value.
+NOTION_DATABASE_ID=your_notion_database_id_here

@@ -249,7 +249,3 @@ The AI governance and regulatory risk specialization—including:
 was designed and implemented on top of that architecture for this project.
 
 ---
-
-# License
-
-This project builds upon an open-source DeepResearcher workflow template while extending it with a specialized AI governance and regulatory risk analysis pipeline.

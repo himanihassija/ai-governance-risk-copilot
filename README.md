@@ -6,17 +6,17 @@ Built on an **n8n** workflow using a recursive **Deep Research** architecture, t
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔍 Accepts a plain-language description of any AI system
-- 🌍 Identifies applicable global AI regulations and legal frameworks
-- ⚖️ Classifies regulatory risk tiers
-- 📋 Maps compliance obligations and required documentation
-- 🚨 Performs compliance gap analysis
-- 📚 Finds relevant regulatory precedents and enforcement actions
-- 📊 Generates an executive exposure summary
-- 📝 Automatically writes a structured report into Notion
-- 🔄 Recursive deep research with configurable depth and breadth
+- Accepts a plain-language description of any AI system
+- Identifies applicable global AI regulations and legal frameworks
+- Classifies regulatory risk tiers
+- Maps compliance obligations and required documentation
+- Performs compliance gap analysis
+- Finds relevant regulatory precedents and enforcement actions
+- Generates an executive exposure summary
+- Automatically writes a structured report into Notion
+- Recursive deep research with configurable depth and breadth
 
 ---
 

@@ -4,6 +4,10 @@ An autonomous research agent that takes a plain-language description of an AI sy
 
 Built on an **n8n** workflow using a recursive **Deep Research** architecture, the agent continuously generates regulatory search queries, retrieves and analyzes authoritative sources, extracts structured findings, and iteratively expands its research before synthesizing everything into a comprehensive report.
 
+## Live Demo
+
+**Watch the complete Agent-to-Agent workflow demonstration on LinkedIn:** 
+https://www.linkedin.com/posts/himani-hassija-116b46324_ai-agenticai-aiengineering-ugcPost-7485296183750328322-TWG0/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFIJ8SIB9gpcxsPWMGXkc4n7M8ZtZuJpGyI
 ---
 
 ## Features
